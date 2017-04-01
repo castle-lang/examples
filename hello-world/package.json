@@ -1,0 +1,8 @@
+{
+  "name": "hello-world",
+  "version": "0.1.0",
+  "devDependencies": {
+    "castle-core": "^0.2.1",
+    "castle-syntax": "^0.2.1"
+  }
+}
